@@ -2,7 +2,7 @@
 title: "Proposed Methodology for Real-Time Pistol Detection System"
 collection: publications
 permalink: /publication/Proposed Methodology for Real-Time Pistol Detection System
-excerpt: 'Current Status: Published in IEEE Explore; Presented at International Conference on Advanced Computing Technologies and Applications(ICACTA) 2023'
+excerpt: 'Current Status: Published in IEEE Explore; Presented at 3rd International Conference on Advanced Computing Technologies and Applications(ICACTA) 2023'
 date: 2024-01-23
 venue: 'IEEE Explore'
 ---
