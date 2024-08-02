@@ -1,7 +1,7 @@
 ---
 title: "Smart Surveillance: Enhanced Detection of Compact Weapons and Fires with Image Enhancement Techniques"
 collection: publications
-permalink: /publication/Smart Surveillance: Enhanced Detection of Compact Weapons and Fires with Image Enhancement Techniques
+permalink: /publication/Enhanced Detection of Compact Weapons and Fires with Image Enhancement Techniques
 excerpt: 'Current Status: Presented at 3rd International Conference on Human-Centric Smart Computing (ICHCSC 2024)'
 date: 2024-07-26
 venue: 'Springer Smart Innovation, Systems and Technologies'
