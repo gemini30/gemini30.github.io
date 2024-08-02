@@ -2,7 +2,7 @@
 title: "Assessing the Performance of Video Classification Models in Identifying Violent Actions"
 collection: publications
 permalink: /publication/Assessing the Performance of Video Classification Models in Identifying Violent Actions
-excerpt: 'Published'
+excerpt: 'Current Status: Published'
 date: 2023-09-30
 venue: 'International Journal for Research in Applied Science & Engineering Technology'
 ---
