@@ -53,7 +53,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-experience
+Experience
 ======
   <ul>{% for post in site.experience reversed %}
     {% include archive-single-cv.html %}
