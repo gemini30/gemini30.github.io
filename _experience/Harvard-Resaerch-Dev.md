@@ -8,6 +8,7 @@ date_end: September 2023
 guide: Dr. David H. Rosmarin
 guide_link: "https://projects.iq.harvard.edu/rshm/people/david-h-rosmarin-phd"
 ---
+## Description
 ●	Developed, maintained and deployed a HIPPA compliant Mental Health application for Dr. David H. Rosmarin using Flutter.
 ●	Restructured AWS DynamoDB schema design, enhancing storage efficiency and reducing operational costs by 16%.
 ●	Mitigated over 500 security issues pertaining to AWS and Node deployment, safeguarding user connections and data integrity.
