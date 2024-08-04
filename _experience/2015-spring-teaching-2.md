@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "experience 2"
 collection: experience
 type: "Workshop"
-permalink: /experience/2015-spring-teaching-1
+permalink: /experience/2015-spring-experience-1
 venue: "University 1, Department"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of an experience. You can use markdown like any other post.
 
 Heading 1
 ======
