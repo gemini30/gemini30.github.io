@@ -35,7 +35,10 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'experience' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        <p> <b>{{ page.type }}</b> | {{ page.date_start }} - {{ page.date_end }} </p>
+        {% if page.guide %}
+        <p> Advisor: <a href='{{page.guide_link}}'>{{page.guide}}</a> </p>
+        {% endif %}
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
