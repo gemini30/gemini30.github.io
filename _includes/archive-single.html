@@ -39,7 +39,9 @@
     {% endif %}
 
         {% if post.collection == 'experience' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+        <p> <b>{{ post.type }}</b>, | {{ post.date_start }} - {{ post.date_end }} </p>
+        {% if post.guide %}
+        <p> Advisor: <a href='{{post.guide_link}}'></a>{{post.guide}} </p>
         {% elsif post.collection == 'publications' %}
           <p>Publication <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
